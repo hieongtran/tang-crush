@@ -7,5 +7,4 @@ const CONFIG = {
     btnYes: 'À...ừmmmmm. Yes 🤐',
     btnNo: 'Ko phải đou, bro :3',
     question:'Tại shao cậu lại gay dọoo',
-    btnReply: 'Gửi lại kết quả cho tớ <3',
-    
+  tnReply: 'Gửi lại kết quả cho tớ <3'
